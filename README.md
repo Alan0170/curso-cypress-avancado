@@ -1,5 +1,6 @@
 # Testes Automatizados com Cypress - Avançado
 
+
 👋 Seja bem vindo(a)!
 
 É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
