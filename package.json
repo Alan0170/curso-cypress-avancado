@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "npx standard",
     "lint:fix": "npx standard --fix",
-    "test": "cypress run",
+    "cy:all": "cypress run",
     "cy:open": "cypress open"
   },
   "standard": {
